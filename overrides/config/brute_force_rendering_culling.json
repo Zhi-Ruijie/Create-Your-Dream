@@ -1,0 +1,14 @@
+{
+	"深度采样率": 0.5,
+	"剔除图更新推迟": 1,
+	"剔除实体": true,
+	"剔除方块实体": true,
+	"剔除区块": true,
+	"异步构建区块": true,
+	"不被剔除的实体": [
+		"create:stationary_contraption"
+	],
+	"不被剔除的方块实体": [
+		"minecraft:beacon"
+	]
+}
